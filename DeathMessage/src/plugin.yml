@@ -1,0 +1,6 @@
+name: DeathMessage
+version: 1.0
+author: Jerry
+main: me.Jerry.DeathMessage.Main
+description: Our third minecraft spigot plugin!
+

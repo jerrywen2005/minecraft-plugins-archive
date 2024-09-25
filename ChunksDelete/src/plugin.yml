@@ -1,0 +1,14 @@
+name: ChunksDelete
+version: 1.0
+author: Jerry
+main: me.Jerry.ChunksDelete.Main.Main
+description: yo
+
+commands:
+
+   RunChunksDelete:
+   StopChunksDelete:
+   
+   RunChunksFall:
+   StopChunksFall:
+   

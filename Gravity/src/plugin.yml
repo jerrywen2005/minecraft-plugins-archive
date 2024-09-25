@@ -1,0 +1,14 @@
+name: Gravity
+version: 1.0
+author: Jerry
+main: me.Jerry.Gravity.Main.Main
+description: Our first minecraft spigot plugin!
+
+commands:
+   RunAllBlocksGravity:
+   StopAllBlocksGravity:
+   
+   RunGravityFlip:
+   StopGravityFlip:
+   
+    

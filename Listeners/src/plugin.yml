@@ -1,0 +1,6 @@
+name: Listeners
+version: 1.0
+author: Jerry
+main: me.Jerry.Listeners.Main
+description: Our second minecraft spigot plugin!
+

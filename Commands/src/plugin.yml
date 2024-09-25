@@ -1,0 +1,91 @@
+name: Commands
+version: 1.0
+author: Jerry
+main: me.Jerry.Commands.Main.Main
+description: Our commands minecraft spigot plugin!
+
+commands:
+   gm0:
+    description: This is the gm0 command
+    usage: /gm0
+    
+   gm1:
+    description: This is the gm1 command
+    usage: /gm1
+    
+   gm2:
+    description: This is the gm2 command
+    usage: /gm2
+    
+   gm3:
+    description: This is the gm3 command
+    usage: /gm3
+    
+   ts0:
+   
+   ts1:
+    description: time commands
+    usage: /ts1
+    
+   ts2:
+    
+   ts3:
+   
+   ts4:
+       
+   ts5:
+    
+   ts6:
+    
+   ts7:
+    
+   ts8:
+    
+   ts9:
+   
+   ts10:
+    
+   ts11:
+    
+   ts12:
+    
+   ts13:
+    
+   ts14:
+   
+   ts15:
+    
+   ts16:
+    
+   ts17:
+    
+   ts18:
+    
+   ts19:
+       
+   ts20:
+    
+   ts21:
+    
+   ts22:
+    
+   ts23:
+    
+   day:
+   
+   night:
+   
+   d:
+   
+   n:
+   
+   k:
+   
+   item:
+   
+   heal:
+   
+   h:
+   
+   clear:
+   

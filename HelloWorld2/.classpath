@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/chang/Desktop/Construct/spigot-1.15.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

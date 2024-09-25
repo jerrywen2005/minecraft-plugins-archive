@@ -1,0 +1,11 @@
+name: Compasss
+version: 1.0
+author: Jerry
+main: me.Jerry.Compass.Main.Main
+description: Compass plugin
+
+commands:
+
+   runner:
+   hunter:
+ 

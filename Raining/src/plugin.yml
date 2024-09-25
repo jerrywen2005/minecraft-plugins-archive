@@ -1,0 +1,14 @@
+name: Raining
+version: 1.0
+author: Jerry
+main: me.Jerry.Raining.Main.Main
+description: yo
+
+commands:
+
+   RunRainingMobs:
+   StopRainingMobs:
+   
+   RunRainingTNT:
+   StopRainingTNT:
+   

@@ -1,0 +1,11 @@
+name: Dream
+version: 1.0
+author: Jerry
+main: me.Jerry.Dream.Main.Main
+description: Dream minecraft spigot plugin!
+
+
+commands: 
+  RunFoodhalfheart:
+  StopFoodhalfheart: 
+
